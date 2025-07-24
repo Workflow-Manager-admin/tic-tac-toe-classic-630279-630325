@@ -48,11 +48,7 @@
   align-items: center;
   justify-content: center;
 <<<<<<< HEAD
-<<<<<<< HEAD
   background-color: red;
-=======
-  background-color: var(--secondary-color);
->>>>>>> parent of 0806f3a (CheckPoint - cgcf2b6077)
   padding: 20px;
 =======
   font-size: calc(10px + 2vmin);
